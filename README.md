@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>On-premises Active Directory Deployment in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of On-premises Active Directory within Azure Virtual Machines.<br />
 
 
@@ -20,10 +20,9 @@ This tutorial outlines the implementation of On-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Install Active Directory
+- Promote Server as a Domain Controller
+- Creating Accounts
 
 <h2>Deployment and Configuration Steps</h2>
 
