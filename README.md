@@ -129,3 +129,23 @@ Under the Administrator account, I created a new Administrative User account nam
 
 Logged out of the domain controller and logged back in using the new administrative user account and a Fully Qualified Domain Name.
 </p>
+<br />
+<br />
+<p>
+<h4>On the Client computer:</h4>
+</p>
+<p>
+
+  ![image](https://github.com/user-attachments/assets/99075e2d-b283-4bed-af58-727de04d0782)
+
+  Changed the device's DNS Server IP address to 10.0.0.4 which is the Domain Controller's private IP address.  
+
+</p>
+<br />
+<br />
+<p>
+  
+![image](https://github.com/user-attachments/assets/324e7b84-a4de-4299-bef1-3fc4d0c0469a)
+
+ I logged in as a normal user on client's personal computer, added the device to the established domain forest.
+</p>
