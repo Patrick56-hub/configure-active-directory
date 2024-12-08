@@ -148,4 +148,5 @@ Logged out of the domain controller and logged back in using the new administrat
 ![image](https://github.com/user-attachments/assets/324e7b84-a4de-4299-bef1-3fc4d0c0469a)
 
  I logged in as a normal user on client's personal computer, added the device to the established domain forest.
+ The computer can now log in to the Domain using the fully qualified domain name. 
 </p>
