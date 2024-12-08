@@ -82,7 +82,50 @@ After selecting a server role of 'Active Directory Domain Services', I installed
 ![image](https://github.com/user-attachments/assets/417ed81c-8219-49bc-9d72-7733989a3beb)
 </p>
 <p>
-On the Server Manager, I carried out the post-deployment configuration of Active Directory Domain Controller.
+On the Server Manager, I carried out the post-deployment configuration to promote the Server to a Domain Controller.
 </p>
 <br />
 <br />
+<p>
+
+![image](https://github.com/user-attachments/assets/6ffce264-94a5-47ce-9f8f-65124a2892af)
+</p>
+<p>
+Added a new Domain forest and finished setting up the domain controller.
+</p>
+<br />
+<br />
+<p>
+
+![image](https://github.com/user-attachments/assets/87cd79a7-ae9f-4a3d-8b48-151f905eb5ba)
+</p>
+<p>
+The machine automatically signed out and I reconnected to it using Remote desktop protocol, signed in using Fully Qualified Domain Name of 'kaelodomain.com\Twist DC'. 
+</p>
+<br />
+<br />
+
+<h4>Creating the accounts:</h4>
+<p>
+
+![image](https://github.com/user-attachments/assets/1ff7ffec-abb2-4daf-a5df-7707e8f197c2)
+
+On the Server Manager, I created new departmental accounts;  Administrators, Employees and Clients accounts.
+</p>
+<br />
+<br />
+<p>
+
+![image](https://github.com/user-attachments/assets/66f4c84a-a066-4224-a947-b9a9186b3be4)
+
+
+Under the Administrator account, I created a new Administrative User account named 'Patrick Sekai' that has domain privileges.
+</p>
+<br />
+<br />
+<p>
+
+![image](https://github.com/user-attachments/assets/ebf8f71f-b69b-4019-9a31-560eb1dab952)
+
+Logged out of the domain controller and logged back in using the new administrative user account and a Fully Qualified Domain Name.
+</p>
